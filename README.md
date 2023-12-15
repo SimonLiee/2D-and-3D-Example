@@ -1,4 +1,4 @@
-# Avalanche-Clone
+# Example of 2D and 3D
 
 Project in [Raylib](https://www.raylib.com/) C. 
 
